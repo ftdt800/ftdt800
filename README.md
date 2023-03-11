@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/MhRI62b.gif">
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/ftdt800">Roman</a> - aka ftdt800 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/ftdt800">RomaVol</a> - aka ftdt800 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
   <a href="https://github.com/ftdt800"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ftdt800?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>  
@@ -14,8 +14,8 @@
 ## 📖 Обо мне/About me
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-* 💻 | <b>Меня зовут Роман Нурмехамитов, на данный момент мне 15 лет.</b>
- My name is Roman Nurmehamitov, I'm 15 years old.
+* 💻 | <b>Меня зовут Роман Вольнов, на данный момент мне 15 лет.</b>
+ My name is Roman Volnov, I'm 15 years old.
 * 🎨 | <b>Я увлечён разработкой проектов для личного и комерческого пользования.</b>
  I am passionate about developing projects for personal and commercial use.
 * 📱 | <b>В свободное время слушаю музыку :notes: смотрю фильмы :movie_camera: и различные аниме.</b> :sparkles:
