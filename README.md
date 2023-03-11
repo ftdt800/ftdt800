@@ -46,7 +46,7 @@
 
 <p align="left">
   <a href="https://t.me/ftdt800"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-   <a href="ftdt800@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/600174335537446912" target="_blank"><img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://vk.com/ftdt800_bog"><img alt="VK" title="VK" src="https://img.shields.io/badge/-VK-%232962FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </p>
 <br>
@@ -56,25 +56,16 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href=""><img alt="Wedyarit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wedyarit&show_icons=true&count_private=true&theme=midnight-purple" /></a>
+  <a href=""><img alt="Wedyarit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ftdt800&show_icons=true&count_private=true&theme=midnight-purple" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href=""><img alt="Wedyarit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wedyarit&langs_count=10&layout=compact&theme=midnight-purple" /></a>
+  <a href=""><img alt="Wedyarit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftdt800&langs_count=10&layout=compact&theme=midnight-purple" /></a>
 </details>
 <br>
 
-<form action="https://send.pageclip.co/Ublmi94J44OwcVKpMmF4NspA3wU9tGIp" class="pageclip-form" method="post">
-  <!-- Replace these inputs with your own. Make sure they have a "name" attribute! -->
-  <input type="text" name="name" value="Roscoe Jones" />
-  <input type="email" name="email" value="roscoe@example.com" />
-
-  <!-- This button will have a loading spinner. Keep the inner span for best results. -->
-  <button type="submit" class="pageclip-form__submit">
-    <span>Send</span>
-  </button>
-</form>
-<p align='center'>⚡Stay awesome!</p>
-   
+<p align='center'>⚡Good luck!</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ftdt800&color=0E9C47&style=for-the-badge">   
