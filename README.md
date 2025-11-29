@@ -14,8 +14,8 @@
 ## 📖 Обо мне/About me
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-* 💻 | <b>Меня зовут Роман Вольнов, на данный момент мне 17 лет.</b>
- My name is Roman Volnov, I'm 17 years old.
+* 💻 | <b>Меня зовут Роман Вольнов, на данный момент мне 18 лет.</b>
+ My name is Roman Volnov, I'm 18 years old.
 * 🎨 | <b>Я увлечён разработкой проектов для личного и комерческого пользования.</b>
  I am passionate about developing projects for personal and commercial use.
 * 📱 | <b>В свободное время слушаю музыку :notes: смотрю фильмы :movie_camera: и различные аниме.</b> :sparkles:
